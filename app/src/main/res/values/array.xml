@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="theme">
+        <!--<item>白天模式</item>-->
+        <!--<item>夜间模式</item>-->
+        <item>纯色</item>
+        <item>天空蓝</item>
+        <item>西瓜</item>
+        <item>薄荷绿</item>
+        <item>魔幻紫</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorDay">#fff</color>
+    <color name="colorNight">#111</color>
+    <color name="colorDayAuthor">#0D0D0D</color>
+    <color name="colorDayInfo">#7c7c7c</color>
+    <color name="colorNightAuthor">#bbb</color>
+    <color name="colorNightInfo">#7c7c7c</color>
+</resources>
